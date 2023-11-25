@@ -5,9 +5,9 @@ end
 let g:vim_ortographia_loaded = 1
 
 imap jje ě
-imap sz š
-imap cz č 
-imap rz ř
+imap ss š
+imap cc č 
+imap rr ř
 imap zz ž
 imap yy ý
 imap aa á
