@@ -30,7 +30,18 @@ It doesnt directly use staples from old czech, it uses combination that make sen
 
 ## Instalation
 
-tbd
+Simpy include `tenmajkl/vim-ortographia` in your plugin manager.
+
+```vim
+use 'tenmajkl/vim-ortographia'
+
+"or
+Plug 'tenmajkl/vim-ortographia'
+
+"or some other idk
+```
+
+Then you need to enable it using `:Ortographia`.
 
 ## Development notes
 
