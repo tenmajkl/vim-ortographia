@@ -12,7 +12,7 @@ It doesnt directly use staples from old czech, it uses combination that make sen
 
 | Staple | Unicode-char | 
 |--------|--------------|
-| jje    | ě            | 
+| we     | ě            | 
 | ss     | š            | 
 | cc     | č            | 
 | rr     | ř            |
@@ -24,7 +24,7 @@ It doesnt directly use staples from old czech, it uses combination that make sen
 | oo     | ó            |
 | tt     | ť            |
 | uu     | ú            |
-| uo     | ů            |
+| ui     | ů            |
 | dd     | ď            |
 | nn     | ň            |
 
