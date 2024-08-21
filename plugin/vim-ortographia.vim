@@ -20,6 +20,36 @@ function Ortographia()
     imap ui ů
     imap dd ď
     imap nn ň
+    imap WE Ě
+    imap SS Š
+    imap CC Č
+    imap RR Ř
+    imap ZZ Ž
+    imap YY Ý
+    imap AA Á
+    imap II Í
+    imap EE É
+    imap OO Ó
+    imap TT Ť
+    imap UU Ú
+    imap UI Ů
+    imap DD Ď
+    imap NN Ň
+    imap We Ě
+    imap Ss Š
+    imap Cc Č
+    imap Rr Ř
+    imap Zz Ž
+    imap Yy Ý
+    imap Aa Á
+    imap Ii Í
+    imap Ee É
+    imap Oo Ó
+    imap Tt Ť
+    imap Uu Ú
+    imap Ui Ů
+    imap Dd Ď
+    imap Nn Ň
 endfunction
 
 command Ortographia call Ortographia()
