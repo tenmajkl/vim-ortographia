@@ -46,3 +46,7 @@ Then you need to enable it using `:Ortographia`.
 ## Development notes
 
 It was hard not to try to be funny and name this repo eg. kostnice.
+
+## Overleaf Interaction
+
+if ur using vim mode in overleaf (which i suppose u are), install tampermonkey script from dis repo (`overleaf.js`)
